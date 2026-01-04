@@ -72,7 +72,7 @@ macos-terminal/
 To run Terminal locally:
 
 ```bash
-git clone https://github.com/aakash-test7/terminal.git
+git clone https://github.com/aakash-kharb/terminal.git
 cd terminal
 ```
 
@@ -102,7 +102,7 @@ Tested on modern browsers including:
 
 Aakash Kharb
 
-- GitHub: [aakashkharb0007](https://github.com/aakashkharb0007)
+- GitHub: [aakashkharb0007](https://github.com/aakash-kharb)
 - LinkedIn: [aakash-kharb](https://www.linkedin.com/in/aakash-kharb)
 - Twitter: [@aakash_kharb](https://x.com/aakash_kharb)
 - Email: akharbrtk2@gmail.com
